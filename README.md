@@ -1,3 +1,4 @@
 # GITDEMO
-This is my first repository
-Auther-Sheikh Hajrat
+This is my first repository.
+<br>
+Auther-Sheikh Hajrat.
