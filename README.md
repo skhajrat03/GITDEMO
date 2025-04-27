@@ -1,4 +1,4 @@
 # GITDEMO
 This is my first repository.
 <br>
-Auther-Sheikh Hajrat.
+Auther-Sheikh Hajrat(JGEC).
